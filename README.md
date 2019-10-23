@@ -1,4 +1,4 @@
-chnroutes
+chnroutes-py3
 =========
 
 这几个脚本主要利用来自 [APNIC Delegated List] 的数据生成路由命令脚本, 让 VPN 客户端
